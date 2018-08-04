@@ -103,7 +103,7 @@ class Solution {
     }
 }
 
-public class TwoNumberAdder {
+public class AddTwoNumbers {
     public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
